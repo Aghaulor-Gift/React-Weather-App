@@ -114,7 +114,7 @@ function Weather() {
           </a>
           and
           <a
-            href="https://React-weather-App.netlify.app/"
+            href="https://weather-forecast-app34.netlify.app/"
             rel="noreferrer"
             target="_blank"
           >
